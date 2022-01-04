@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/drelluiz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=drelluiz&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drelluiz&layout=compact&langs_count=7&theme=nord"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreluizjs&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreluizjs&layout=compact&langs_count=7&theme=nord"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -29,4 +29,4 @@
   <a href = "mailto:andrejsluiz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andr%C3%A9-luiz-924752133/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/drelluiz/drelluiz/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/andreluizjs/drelluiz/blob/output/github-contribution-grid-snake.svg)
